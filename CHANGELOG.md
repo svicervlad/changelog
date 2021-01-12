@@ -1,3 +1,9 @@
+## 0.2.1 (2021-01-12)
+
+### Fix
+
+- **REPOSITORY**: change default branch
+
 ## 0.2.0 (2021-01-12)
 
 ### Fix
